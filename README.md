@@ -1,7 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
-
+**web link**: https://fashion-forward-ai-classifier.vercel.app/
 **URL**: https://lovable.dev/projects/42920e13-fd8e-4e64-bef9-00e38a755cfd
 
 ## How can I edit this code?
